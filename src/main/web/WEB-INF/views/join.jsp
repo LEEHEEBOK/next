@@ -3,6 +3,9 @@
 <head>
     <title>Title</title>
 </head>
+body {
+    background color : blue;
+}
 <body>
     <form action="/users/join" method="post">
         <label for="username">username</label>
