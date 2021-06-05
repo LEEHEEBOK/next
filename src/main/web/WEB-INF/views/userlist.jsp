@@ -7,6 +7,7 @@
 <body>
 <c:forEach var="user" items="${users}">
   <div>
+      <h2>회원가입</h2>
     <p>username: ${user.username}</p>
     <p>name: ${user.name}</p>
   </div>
