@@ -12,5 +12,6 @@
 </head>
 <body>
 <h1>${message}</h1>
+<p>배경</p>
 </body>
 </html>
